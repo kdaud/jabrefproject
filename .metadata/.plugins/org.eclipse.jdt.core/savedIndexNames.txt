@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/admins/jabref-workspace/.metadata/.plugins/org.eclipse.jdt.core
+352973926.index
+2243637741.index
