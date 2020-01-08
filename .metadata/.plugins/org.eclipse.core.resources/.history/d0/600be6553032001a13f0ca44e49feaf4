@@ -14,8 +14,4 @@ public class Mentors {
 	public static String techsoftware(String message) {
 		return message;
 	}
-	
-	public void show() {
-		System.out.println("My Coding Journey");
-	}
 }
