@@ -1,10 +1,6 @@
 package com.opensource;
 
 public class Mentors {
-	
-	static {
-		System.out.println("JABREF Community");
-	}
 	public static void main(String[] args) {
 		System.out.println("Hello JabRef Community");
 		System.out.println();
