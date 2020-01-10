@@ -9,6 +9,7 @@ public class Mentors {
 		System.out.println("Hello JabRef Community");
 		System.out.println();
 		System.out.println(techsoftware("HELLO GO-LANG"));
+		System.out.println(hello(" from JabRef"));
 	}
 	
 	public static String techsoftware(String message) {
@@ -17,5 +18,9 @@ public class Mentors {
 	
 	public void show() {
 		System.out.println("My Coding Journey");
+	}
+	
+	private static String hello(String message) {
+		return "Hello World " + message;
 	}
 }
